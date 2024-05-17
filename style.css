@@ -1,0 +1,37 @@
+.rounded-circle{
+    border: 3px solid chartreuse;
+    color: rgb(226, 62, 62);
+}
+
+.memberDiv p, p{
+    font-style: italic;
+}
+.memberDiv{
+    background:linear-gradient(to left,rgb(255, 187, 187),rgb(197, 255, 140));
+
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    outline: none;
+}
+a:hover{
+    color: rgb(125, 200, 49);
+}
+.special{
+    width: 100%;
+}
+.section{
+    /* border: 2px solid chartreuse; */
+    border-radius: 5%;
+}
+svg{
+    width: 25px;
+    height: 25px;
+    padding: 0px 3px;
+}
+.custom-footer {
+    width: 80%;
+    margin: 0 auto; /* Centers the footer */
+  }
+  
