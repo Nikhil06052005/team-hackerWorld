@@ -7,8 +7,6 @@
     font-style: italic;
 }
 .memberDiv{
-    background:linear-gradient(to left,rgb(255, 187, 187),rgb(197, 255, 140));
-
     text-align: center;
 }
 a{
@@ -30,8 +28,3 @@ svg{
     height: 25px;
     padding: 0px 3px;
 }
-.custom-footer {
-    width: 80%;
-    margin: 0 auto; /* Centers the footer */
-  }
-  
